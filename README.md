@@ -1,41 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
 Temas:
- - Grafos1
- - Grafos2
  - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+# DP_Problemas_DUPLA-25
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 25<br>
+**Conteúdo da Disciplina**: Programação dinâmica (Dinamic programing)<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0068229  |  Victor Yukio Cavalcanti Miki |
+| 18/0016067  |  Erick Levy |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolvemos optar por realizar 4 questões sobre a matéria de programação dinâmica. Você pode encontrar o código fonte das questão em cada uma das pastas que contêm um READEME.md explicando sobre a questão com o link no repositório.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Problema_1](./assets/add_one.png)
+
+![Problema_2](./assets/mortal_combat.png)
+
+![Problema_3](./assets/max-white-subtree.png)
+
+![Problema_4](./assets/reberland-liguistics.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: c++<br>
+**Framework**: -<br>
+compilador de c++: **g++**
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Dentro de cada pasta ira conter um README para cada problema e como rodar em seu computador.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Obrigado!
